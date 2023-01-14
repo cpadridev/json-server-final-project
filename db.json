@@ -1,0 +1,103 @@
+{
+  "numbers": [
+    {
+      "id": 1,
+      "spanish": "uno",
+      "english": "one"
+    },
+    {
+      "id": 2,
+      "spanish": "dos",
+      "english": "two"
+    },
+    {
+      "id": 3,
+      "spanish": "tres",
+      "english": "three"
+    },
+    {
+      "id": 4,
+      "spanish": "cuatro",
+      "english": "four"
+    },
+    {
+      "id": 5,
+      "spanish": "cinco",
+      "english": "five"
+    },
+    {
+      "id": 6,
+      "spanish": "seis",
+      "english": "six"
+    },
+    {
+      "id": 7,
+      "spanish": "siete",
+      "english": "seven"
+    },
+    {
+      "id": 8,
+      "spanish": "ocho",
+      "english": "eight"
+    },
+    {
+      "id": 9,
+      "spanish": "nueve",
+      "english": "nine"
+    }
+  ],
+  "days": [
+    {
+      "id": 1,
+      "spanish": "lunes",
+      "english": "Monday"
+    },
+    {
+      "id": 2,
+      "spanish": "martes",
+      "english": "Tuesday"
+    },
+    {
+      "id": 3,
+      "spanish": "miércoles",
+      "english": "Wednesday"
+    },
+    {
+      "id": 4,
+      "spanish": "jueves",
+      "english": "Thursday"
+    },
+    {
+      "id": 5,
+      "spanish": "viernes",
+      "english": "Friday"
+    }
+  ],
+  "colors": [
+    {
+      "id": 1,
+      "spanish": "rojo",
+      "english": "red"
+    },
+    {
+      "id": 2,
+      "spanish": "azul",
+      "english": "blue"
+    },
+    {
+      "id": 3,
+      "spanish": "verde",
+      "english": "green"
+    },
+    {
+      "id": 4,
+      "spanish": "blanco",
+      "english": "white"
+    },
+    {
+      "id": 5,
+      "spanish": "negro",
+      "english": "black"
+    }
+  ]
+}
